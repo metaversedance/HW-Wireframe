@@ -1,0 +1,33 @@
+body {
+	width: 960px;
+}
+
+.background {
+	background-color: #777;
+}
+
+.content {
+	text-align: center;
+	margin:10px;
+	background-color: #ebebeb;
+}
+
+
+section {
+	width: 495px;
+	padding: 10px;
+	float: left;
+}
+footer, header, nav {
+	clear: left;
+	height: 100px;
+}
+article {
+	padding: 10px;
+}
+aside {
+	float: left;
+	width: 405px;
+	height: 190px;
+}
+
